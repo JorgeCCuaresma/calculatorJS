@@ -1,0 +1,143 @@
+body{
+    background-color: rgb(17, 17, 128);
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: 800px;
+}
+
+div{
+    position: absolute;
+    width: 300px;
+    height: 340px;
+    background-color: rgb(81, 83, 84);
+}
+
+input{
+    position: absolute;
+    top: 45px;
+    left: 50px;
+    right: 50px;
+    background-color: black;
+    border:1px solid rgb(190, 86, 7);
+    width: 194px;
+    height: 36px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: right;
+}
+
+h4{
+    position: absolute;
+    left: 110px;
+    color: white;
+}
+
+button {
+    cursor: pointer;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: rgb(197, 195, 195);
+    color: white;
+    border:none   
+    
+}
+
+button:active{
+    background-color:rgb(142, 142, 142) ;
+}
+
+button:focus{
+    outline: none;
+}
+.class01{
+    top: 90px;
+    left: 50px;
+}
+
+.class02{
+    top: 90px;
+    left: 100px;
+}
+
+.class03{
+    top: 90px;
+    left: 150px;
+}
+
+.classx{
+    top: 90px;
+    left: 200px;
+    background-color: rgb(46, 94, 78);
+}
+
+.class04{
+    top: 140px;
+    left: 50px;
+}
+
+.class05{
+    top: 140px;
+    left: 100px;
+}
+
+.class06{
+    top: 140px;
+    left: 150px;
+}
+
+.classdividir{
+    top: 140px;
+    left: 200px;
+    background-color: rgb(46, 94, 78);
+}
+
+.class07{
+    top: 190px;
+    left: 50px;
+}
+
+.class08{
+    top: 190px;
+    left: 100px;
+}
+
+.class09{
+    top: 190px;
+    left: 150px;
+}
+
+.classadd{
+    top: 190px;
+    left: 200px;
+    background-color: rgb(46, 94, 78);
+}
+
+.classce{
+    top: 240px;
+    left: 50px;
+    background-color: rgb(46, 94, 78);
+}
+
+.class00{
+    top: 240px;
+    left: 100px;
+}
+
+.classrestar{
+    top: 240px;
+    left: 150px;
+    background-color: rgb(46, 94, 78);
+}
+
+.classigual{
+    top: 240px;
+    left: 200px;
+    background-color: rgb(221, 144, 2);
+}
